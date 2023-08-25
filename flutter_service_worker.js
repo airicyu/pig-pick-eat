@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "bdf5695e21680e4148dc6fceb013dd66",
-"assets/AssetManifest.json": "cc19920b1d10bb1fd0b6f3094c2ed506",
+const RESOURCES = {"assets/AssetManifest.bin": "7281ccc26512bb3a198b24df844e5e10",
+"assets/AssetManifest.json": "df343094362ea636573c7d1fc1e714f2",
 "assets/assets/icons/icon-192.png": "805ced0119f662936a2fc26ebdb700cb",
-"assets/assets/icons/icon-432.png": "17b5d41f83c4b98feff2d43ff8c06c12",
+"assets/assets/icons/icon-280.png": "2e92a18fdb9bffb3f76e1a1883dcb94a",
 "assets/assets/icons/pig-pick-eat.png": "21f2bcf42452c8130ff46b979a3aba04",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "6b2d1c8b20b2f72b3214d6118734d943",
@@ -28,9 +28,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "bdf5695e21680e4148dc6fceb013dd66
 "icons/Icon-512.png": "029986a52a4282bbb81d9a8edc8a7dd9",
 "icons/Icon-maskable-192.png": "ba71ecdbd2997b568036db882d7e489c",
 "icons/Icon-maskable-512.png": "029986a52a4282bbb81d9a8edc8a7dd9",
-"index.html": "f77af8f562cda8c5e242f01422b0e49c",
-"/": "f77af8f562cda8c5e242f01422b0e49c",
-"main.dart.js": "ffe483097eaac424315d7fb5b51ed47b",
+"index.html": "4e7dfbb273c4ff73deedaa86b0003537",
+"/": "4e7dfbb273c4ff73deedaa86b0003537",
+"main.dart.js": "6425eae671e45ee53c07ea7131af952b",
 "manifest.json": "360116eb198dd0cc969be833c8d0e87a",
 "version.json": "9e5d70fdbb45b3a5dd19215ddee36ed0"};
 // The application shell files that are downloaded before a service worker can
