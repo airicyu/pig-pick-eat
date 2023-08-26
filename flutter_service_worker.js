@@ -9,8 +9,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "7281ccc26512bb3a198b24df844e5e10
 "assets/assets/icons/icon-280.png": "2e92a18fdb9bffb3f76e1a1883dcb94a",
 "assets/assets/icons/pig-pick-eat.png": "21f2bcf42452c8130ff46b979a3aba04",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "6b2d1c8b20b2f72b3214d6118734d943",
-"assets/NOTICES": "7d664f43980d2205b2fc8d2934584bd1",
+"assets/fonts/MaterialIcons-Regular.otf": "a6157dc96fd4513507819c65ad57a897",
+"assets/NOTICES": "4e27aef6417cebbd07f4c1b1ba6a566e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
@@ -28,9 +28,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "7281ccc26512bb3a198b24df844e5e10
 "icons/Icon-512.png": "029986a52a4282bbb81d9a8edc8a7dd9",
 "icons/Icon-maskable-192.png": "ba71ecdbd2997b568036db882d7e489c",
 "icons/Icon-maskable-512.png": "029986a52a4282bbb81d9a8edc8a7dd9",
-"index.html": "4e7dfbb273c4ff73deedaa86b0003537",
-"/": "4e7dfbb273c4ff73deedaa86b0003537",
-"main.dart.js": "6425eae671e45ee53c07ea7131af952b",
+"index.html": "e0f639b1bfb1091c4cbe599c4cafd6f9",
+"/": "e0f639b1bfb1091c4cbe599c4cafd6f9",
+"main.dart.js": "0ab9952e3b51df5e013f81bd089e9db0",
 "manifest.json": "360116eb198dd0cc969be833c8d0e87a",
 "version.json": "9e5d70fdbb45b3a5dd19215ddee36ed0"};
 // The application shell files that are downloaded before a service worker can
